@@ -45,10 +45,10 @@ Save settings
 **3. 3 Generate Keys and Tokens**
 Go to Keys and Tokens section:
 Regenerate/copy these 4 values:
-•	API Key
-•	API Key Secret
-•	Access Token
-•	Access Token Secret
+-API Key
+-API Key Secret
+-Access Token
+-Access Token Secret
 
 You’ll need them to your script.
 
