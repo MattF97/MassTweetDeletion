@@ -10,7 +10,7 @@ You can download Python here
 https://www.python.org/downloads
 During installation, make sure to check “Add python to Path” before clicking “Install now”.
 
-**1.2 Install VSCode **
+**1.2 Install VSCode**
 Go to: https://code.visualstudio.com
 Download and Install Visual Studio Code
 
@@ -45,10 +45,10 @@ Save settings
 **3. 3 Generate Keys and Tokens**
 Go to Keys and Tokens section:
 Regenerate/copy these 4 values:
--API Key
--API Key Secret
--Access Token
--Access Token Secret
+API Key
+API Key Secret
+Access Token
+Access Token Secret
 
 You’ll need them to your script.
 
